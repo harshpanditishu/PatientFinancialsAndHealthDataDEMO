@@ -76,7 +76,7 @@ namespace BillingAndPatientCreationTests.StepDefinitions
         [When(@"patient takes out the MRI")]
         public void WhenPatientTakesOutTheMRI()
         {
-            Console.WriteLine("MRI implentation logic here");
+            Console.WriteLine("MRI implementation logic here");
         }
 
         [Then(@"billing amount is")]
